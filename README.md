@@ -1,7 +1,7 @@
 # cassandra
 
-Cd apache-cassandra -> bin
-Cassandra
+cd /Users/thienle/Documents/apache-cassandra-3.11.4
+cd bin
 Cqlsh
 Use cas;
 Select * from user;
